@@ -1,0 +1,61 @@
+item_id,text,np1,np2
+1_A,"When the steel plate fell on the glass plate, [MASK] broke.",the steel plate,the glass plate
+1_B,"When the glass plate fell on the steel plate, [MASK] broke.",the glass plate,the steel plate
+2_A,"When the steel sword collided with the glass sword, [MASK] broke.",the steel sword,the glass sword
+2_B,"When the glass sword collided with the steel sword, [MASK] broke.",the glass sword,the steel sword
+3_A,"When the baseball collided with the bat, [MASK] broke in two.",the baseball,the bat
+3_B,"When the bat collided with the baseball, [MASK] broke in two.",the bat,the baseball
+4_A,"the pig was running alongside the cheetah, but then [MASK] sped up and pulled ahead.",the pig,the cheetah
+4_B,"the cheetah was running alongside the pig, but then [MASK] sped up and pulled ahead.",the cheetah,the pig
+5_A,the bicycle was going alongside the car but then [MASK] sped up and pulled ahead.,the bicycle,the car
+5_B,the car was going alongside the bicycle but then [MASK] sped up and pulled ahead.,the car,the bicycle
+6_A,"Hannah put the brick next to the feather, but the wind blew [MASK] away.",the brick,the feather
+6_B,"Hannah put the feather next to the brick, but the wind blew [MASK] away.",the feather,the brick
+7_A,"Alyssa packed the can of tomatoes in the same bag as the lime, and on her walk home from the store [MASK] got crushed.",the can of tomatoes,the lime
+7_B,"Alyssa packed the lime in the same bag as the can of tomatoes, and on her walk home from the store [MASK] got crushed.",the lime,the can of tomatoes
+8_A,"Sam put the concrete box next to the styrofoam box, but the wind blew [MASK] away.",the concrete box,the styrofoam box
+8_B,"Sam put the styrofoam box next to the concrete box, but the wind blew [MASK] away.",the styrofoam box,the concrete box
+9_A,"When Chloe threw the rock at the egg, [MASK] cracked.",the rock,the egg
+9_B,"When Chloe threw the egg at the rock, [MASK] cracked.",the egg,the rock
+10_A,"Gabriel put the plate in the oven with the bread to warm up, but after a couple of minutes [MASK] was burned to a crisp.",the plate,the bread
+10_B,"Gabriel put the bread in the oven with the plate to warm up, but after a couple of minutes [MASK] was burned to a crisp.",the bread,the plate
+11_A,"When Ryan left his key in the bag with his laptop, [MASK] came out with scratches all over it.",the key,the laptop
+11_B,"When Ryan left his laptop in the bag with his key, [MASK] came out with scratches all over it.",the laptop,the key
+12_A,"the bowling ball collided with the soccer ball, which was flying in the opposite direction. [MASK] was knocked completely off course.",the bowling ball,the soccer ball
+12_B,"the soccer ball collided with the bowling ball, which was flying in the opposite direction. [MASK] was knocked completely off course.",the soccer ball,the bowling ball
+13_A,"When the vase fell on the rock, [MASK] broke.",the vase,the rock
+13_B,"When the rock fell on the vase, [MASK] broke.",the rock,the vase
+14_A,"Sofia placed the teacup next to the wine bottle, but [MASK] fell over when a passerby bumped into the table.",the teacup,the wine bottle
+14_B,"Sofia placed the wine bottle next to the teacup, but [MASK] fell over when a passerby bumped into the table.",the wine bottle,the teacup
+15_A,"Lily put the cheese in the oven with the bread to warm up, but by the time she came back [MASK] had melted.",the cheese,the bread
+15_B,"Lily put the bread in the oven with the cheese to warm up, but by the time she came back [MASK] had melted.",the bread,the cheese
+16_A,"Ethan put the steel box next to the cardboard box in the moving van and after an hour's drive on the bumpy road, [MASK] got crushed.",the steel box,the cardboard box
+16_B,"Ethan put the cardboard box next to the steel box in the moving van and after an hour's drive on the bumpy road, [MASK] got crushed.",the cardboard box,the steel box
+17_A,"Jayden heated the cookie along with the marshmallow over the campfire, but [MASK] melted before he had a chance to eat it.",the cookie,the marshmallow
+17_B,"Jayden heated the marshmallow along with cookie over the campfire, but [MASK] melted before he had a chance to eat it.",the marshmallow,the cookie
+18_A,"Daniel packed the fork into his lunchbox along with the napkin. On his walk to work, he could hear [MASK] rattling around inside.",the fork,the napkin
+18_B,"Daniel packed the napkin into his lunchbox along with the fork. On his walk to work, he could hear [MASK] rattling around inside.",the napkin,the fork
+19_A,the truck lost control and crashed into the oncoming bicycle. All that was left of [MASK] was a crushed heap of metal.,the truck,the bicycle
+19_B,the bicycle lost control and crashed into the oncoming truck. All that was left of [MASK] was a crushed heap of metal.,the bicycle,the truck
+20_A,"Chris placed the book next to the soccer ball on the grassy hill, but [MASK] rolled away down the slope.",the book,the soccer ball
+20_B,"Chris placed the soccer ball next to the book on the grassy hill, but [MASK] rolled away down the slope.",the soccer ball,the book
+21_A,"Mary tried to pack the apple, along with the melon, into the jar, but [MASK] wouldn't fit.",the apple,the melon
+21_B,"Mary tried to pack the melon, along with the apple, into the jar, but [MASK] wouldn't fit.",the melon,the apple
+22_A,"Sarah tried to climb up the wall, with one hand on the window ledge and the other on the drainpipe, but [MASK] gave way.",the drainpipe,the window ledge
+22_B,"Sarah tried to climb up the wall, with one hand on the drainpipe and the other on the window ledge, but [MASK] gave way.",the window ledge,the drainpipe
+23_A,"When the peach collided with the coconut, [MASK] was smashed to pieces.",the peach,the coconut
+23_B,"When the coconut collided with the peach, [MASK] was smashed to pieces.",the coconut,the peach
+24_A,"When the rock collided with the ornament, [MASK] shattered.",the rock,the ornament
+24_B,"When the ornament collided with the rock, [MASK] shattered.",the ornament,the rock
+25_A,Ben packed his shirt in the same suitcase as his mug. When he took [MASK] out it was broken.,the shirt,the mug
+25_B,Ben packed his mug in the same suitcase as his shirt. When he took [MASK] out it was broken.,the mug,the shirt
+26_A,"Charlotte packed her shirt in the same suitcase as her book. When she took [MASK] out, it was creased.",the shirt,the book
+26_B,"Charlotte packed her book in the same suitcase as her shirt. When she took [MASK] out, it was creased.",the book,the shirt
+27_A,"Noah put his keys away in his pocket with his coins, but on his walk home [MASK] made a hole in the lining.",the keys,the coins
+27_B,"Noah put his coins away in his pocket with his keys, but on his walk home [MASK] made a hole in the lining.",the coins,the keys
+28_A,"When the raquet collided with the tennis ball, [MASK] bounced back and hit Josh in the face.",the raquet,the tennis ball
+28_B,"When the tennis ball collided with the raquet, [MASK] bounced back and hit Josh in the face.",the tennis ball,the raquet
+29_A,"Natalie regretted putting the chocolate bar in her pocket with her phone: when she took [MASK] out, it had melted.",the chocolate bar,the phone
+29_B,"Natalie regretted putting her phone in her pocket with the chocolate bar: when she took [MASK] out, it had melted.",the phone,the chocolate bar
+30_A,"Alice stuffed a banana in her pocket with her wallet. When she took [MASK] out, it was squashed.",the banana,the wallet
+30_B,"Alice stuffed her wallet in her pocket with a banana. When she took [MASK] out, it was squashed.",the wallet,the banana

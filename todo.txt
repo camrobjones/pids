@@ -1,0 +1,85 @@
+
+- Other models
+    - GPT
+    - Email James
+
+- Other test techniques
+    - Whole sentence probabilities
+    - Single word substitutions
+
+- Check for [UNK] errors
+
+- Syntax stims
+
+- Glenberg & Robertson
+- Winograd schemas
+
+
+Questions
+---------
+- multiple pronouns
+    - 25 & 26
+
+- [SEP] and [CLS] (different for each sentence?)
+
+- random effects structure for models
+
+Interesting stuff
+=================
+
+Incorrect world knowledge
+-------------------------
+
+6 / 60: [CLS] the pig was running alongside the cheetah, but then [MASK] sped up and pulled ahead. [SEP]
+{'the pig': 0.7938, 'the cheetah': 0.0009}
+
+7 / 60: [CLS] the cheetah was running alongside the pig, but then [MASK] sped up and pulled ahead. [SEP]
+{'the cheetah': 0.0012, 'the pig': 0.3745}
+
+--
+
+14 / 60: [CLS] Sam put the concrete box next to the styrofoam box, but the wind blew [MASK] away. [SEP]
+{'the concrete box': 0.2189, 'the styrofoam box': 0.0139}
+
+15 / 60: [CLS] Sam put the styrofoam box next to the concrete box, but the wind blew [MASK] away. [SEP]
+{'the styrofoam box': 0.0148, 'the concrete box': 0.2063}
+
+--
+
+32 / 60: [CLS] Jayden heated the cookie along with the marshmallow over the campfire, but [MASK] melted before he had a chance to eat it. [SEP]
+the cookie: 0.0798
+the marshmallow: 0.000373
+
+33 / 60: [CLS] Jayden heated the marshmallow along with cookie over the campfire, but [MASK] melted before he had a chance to eat it. [SEP]
+the marshmallow: 0.000384
+the cookie: 0.0737
+
+--
+
+40 / 60: [CLS] Mary tried to pack the apple, along with the melon, into the jar, but [MASK] wouldn't fit. [SEP]
+the apple: 0.0432
+the melon: 0.00141
+
+41 / 60: [CLS] Mary tried to pack the melon, along with the apple, into the jar, but [MASK] wouldn't fit. [SEP]
+the melon: 0.00151
+the apple: 0.032
+
+Influenced by Syntax
+--------------------
+10 / 60: [CLS] Hannah put the brick next to the feather, but the wind blew [MASK] away. [SEP]
+{'the brick': 0.0887, 'the feather': 0.0878}
+
+11 / 60: [CLS] Hannah put the feather next to the brick, but the wind blew [MASK] away. [SEP]
+{'the feather': 0.2761, 'the brick': 0.0149}
+
+--
+
+36 / 60: [CLS] the truck lost control and crashed into the oncoming bicycle. All that was left of [MASK] was a crushed heap of metal. [SEP]
+the truck: 0.401
+the bicycle: 0.117
+
+37 / 60: [CLS] the bicycle lost control and crashed into the oncoming truck. All that was left of [MASK] was a crushed heap of metal. [SEP]
+the bicycle: 0.287
+the truck: 0.171
+
+

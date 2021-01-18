@@ -1,0 +1,478 @@
+------------------------------
+
+
+0 / 60: [CLS] When the steel plate fell on the glass plate, [MASK] broke. [SEP]
+the steel plate: 0.0552
+the glass plate: 0.196
+
+
+------------------------------
+
+
+1 / 60: [CLS] When the glass plate fell on the steel plate, [MASK] broke. [SEP]
+the glass plate: 0.171
+the steel plate: 0.0569
+
+
+------------------------------
+
+
+2 / 60: [CLS] When the steel sword collided with the glass sword, [MASK] broke. [SEP]
+the steel sword: 0.0955
+the glass sword: 0.361
+
+
+------------------------------
+
+
+3 / 60: [CLS] When the glass sword collided with the steel sword, [MASK] broke. [SEP]
+the glass sword: 0.359
+the steel sword: 0.105
+
+
+------------------------------
+
+
+4 / 60: [CLS] When the baseball collided with the bat, [MASK] broke in two. [SEP]
+the baseball: 0.112
+the bat: 0.415
+
+
+------------------------------
+
+
+5 / 60: [CLS] When the bat collided with the baseball, [MASK] broke in two. [SEP]
+the bat: 0.406
+the baseball: 0.0861
+
+
+------------------------------
+
+
+6 / 60: [CLS] the pig was running alongside the cheetah, but then [MASK] sped up and pulled ahead. [SEP]
+the pig: 0.794
+the cheetah: 0.000872
+
+
+------------------------------
+
+
+7 / 60: [CLS] the cheetah was running alongside the pig, but then [MASK] sped up and pulled ahead. [SEP]
+the cheetah: 0.00117
+the pig: 0.374
+
+
+------------------------------
+
+
+8 / 60: [CLS] the bicycle was going alongside the car but then [MASK] sped up and pulled ahead. [SEP]
+the bicycle: 0.124
+the car: 0.716
+
+
+------------------------------
+
+
+9 / 60: [CLS] the car was going alongside the bicycle but then [MASK] sped up and pulled ahead. [SEP]
+the car: 0.795
+the bicycle: 0.0372
+
+
+------------------------------
+
+
+10 / 60: [CLS] Hannah put the brick next to the feather, but the wind blew [MASK] away. [SEP]
+the brick: 0.0887
+the feather: 0.0878
+
+
+------------------------------
+
+
+11 / 60: [CLS] Hannah put the feather next to the brick, but the wind blew [MASK] away. [SEP]
+the feather: 0.276
+the brick: 0.0149
+
+
+------------------------------
+
+
+12 / 60: [CLS] Alyssa packed the can of tomatoes in the same bag as the lime, and on her walk home from the store [MASK] got crushed. [SEP]
+the can of tomatoes: 0.0059
+the lime: 0.000279
+
+
+------------------------------
+
+
+13 / 60: [CLS] Alyssa packed the lime in the same bag as the can of tomatoes, and on her walk home from the store [MASK] got crushed. [SEP]
+the lime: 0.000355
+the can of tomatoes: 0.00328
+
+
+------------------------------
+
+
+14 / 60: [CLS] Sam put the concrete box next to the styrofoam box, but the wind blew [MASK] away. [SEP]
+the concrete box: 0.219
+the styrofoam box: 0.0139
+
+
+------------------------------
+
+
+15 / 60: [CLS] Sam put the styrofoam box next to the concrete box, but the wind blew [MASK] away. [SEP]
+the styrofoam box: 0.0148
+the concrete box: 0.206
+
+
+------------------------------
+
+
+16 / 60: [CLS] When Chloe threw the rock at the egg, [MASK] cracked. [SEP]
+the rock: 2.33e-05
+the egg: 6.6e-06
+
+
+------------------------------
+
+
+17 / 60: [CLS] When Chloe threw the egg at the rock, [MASK] cracked. [SEP]
+the egg: 9.06e-06
+the rock: 5.67e-05
+
+
+------------------------------
+
+
+18 / 60: [CLS] Gabriel put the plate in the oven with the bread to warm up, but after a couple of minutes [MASK] was burned to a crisp. [SEP]
+the plate: 0.00106
+the bread: 0.0385
+
+
+------------------------------
+
+
+19 / 60: [CLS] Gabriel put the bread in the oven with the plate to warm up, but after a couple of minutes [MASK] was burned to a crisp. [SEP]
+the bread: 0.0231
+the plate: 0.000624
+
+
+------------------------------
+
+
+20 / 60: [CLS] When Ryan left his key in the bag with his laptop, [MASK] came out with scratches all over it. [SEP]
+the key: 0.0445
+the laptop: 0.038
+
+
+------------------------------
+
+
+21 / 60: [CLS] When Ryan left his laptop in the bag with his key, [MASK] came out with scratches all over it. [SEP]
+the laptop: 0.0472
+the key: 0.0352
+
+
+------------------------------
+
+
+22 / 60: [CLS] the bowling ball collided with the soccer ball, which was flying in the opposite direction. [MASK] was knocked completely off course. [SEP]
+the bowling ball: 0.806
+the soccer ball: 0.451
+
+
+------------------------------
+
+
+23 / 60: [CLS] the soccer ball collided with the bowling ball, which was flying in the opposite direction. [MASK] was knocked completely off course. [SEP]
+the soccer ball: 0.359
+the bowling ball: 0.874
+
+
+------------------------------
+
+
+24 / 60: [CLS] When the vase fell on the rock, [MASK] broke. [SEP]
+the vase: 0.235
+the rock: 0.0299
+
+
+------------------------------
+
+
+25 / 60: [CLS] When the rock fell on the vase, [MASK] broke. [SEP]
+the rock: 0.02
+the vase: 0.155
+
+
+------------------------------
+
+
+26 / 60: [CLS] Sofia placed the teacup next to the wine bottle, but [MASK] fell over when a passerby bumped into the table. [SEP]
+the teacup: 0.000201
+the wine bottle: 0.0596
+
+
+------------------------------
+
+
+27 / 60: [CLS] Sofia placed the wine bottle next to the teacup, but [MASK] fell over when a passerby bumped into the table. [SEP]
+the wine bottle: 0.0605
+the teacup: 0.0002
+
+
+------------------------------
+
+
+28 / 60: [CLS] Lily put the cheese in the oven with the bread to warm up, but by the time she came back [MASK] had melted. [SEP]
+the cheese: 0.0142
+the bread: 0.00306
+
+
+------------------------------
+
+
+29 / 60: [CLS] Lily put the bread in the oven with the cheese to warm up, but by the time she came back [MASK] had melted. [SEP]
+the bread: 0.00321
+the cheese: 0.013
+
+
+------------------------------
+
+
+30 / 60: [CLS] Ethan put the steel box next to the cardboard box in the moving van and after an hour's drive on the bumpy road, [MASK] got crushed. [SEP]
+the steel box: 0.109
+the cardboard box: 0.103
+
+
+------------------------------
+
+
+31 / 60: [CLS] Ethan put the cardboard box next to the steel box in the moving van and after an hour's drive on the bumpy road, [MASK] got crushed. [SEP]
+the cardboard box: 0.131
+the steel box: 0.102
+
+
+------------------------------
+
+
+32 / 60: [CLS] Jayden heated the cookie along with the marshmallow over the campfire, but [MASK] melted before he had a chance to eat it. [SEP]
+the cookie: 0.0798
+the marshmallow: 0.000373
+
+
+------------------------------
+
+
+33 / 60: [CLS] Jayden heated the marshmallow along with cookie over the campfire, but [MASK] melted before he had a chance to eat it. [SEP]
+the marshmallow: 0.000384
+the cookie: 0.0737
+
+
+------------------------------
+
+
+34 / 60: [CLS] Daniel packed the fork into his lunchbox along with the napkin. On his walk to work, he could hear [MASK] rattling around inside. [SEP]
+the fork: 0.045
+the napkin: 0.00545
+
+
+------------------------------
+
+
+35 / 60: [CLS] Daniel packed the napkin into his lunchbox along with the fork. On his walk to work, he could hear [MASK] rattling around inside. [SEP]
+the napkin: 0.00625
+the fork: 0.0307
+
+
+------------------------------
+
+
+36 / 60: [CLS] the truck lost control and crashed into the oncoming bicycle. All that was left of [MASK] was a crushed heap of metal. [SEP]
+the truck: 0.401
+the bicycle: 0.117
+
+
+------------------------------
+
+
+37 / 60: [CLS] the bicycle lost control and crashed into the oncoming truck. All that was left of [MASK] was a crushed heap of metal. [SEP]
+the bicycle: 0.287
+the truck: 0.171
+
+
+------------------------------
+
+
+38 / 60: [CLS] Chris placed the book next to the soccer ball on the grassy hill, but [MASK] rolled away down the slope. [SEP]
+the book: 0.0279
+the soccer ball: 0.144
+
+
+------------------------------
+
+
+39 / 60: [CLS] Chris placed the soccer ball next to the book on the grassy hill, but [MASK] rolled away down the slope. [SEP]
+the soccer ball: 0.236
+the book: 0.0194
+
+
+------------------------------
+
+
+40 / 60: [CLS] Mary tried to pack the apple, along with the melon, into the jar, but [MASK] wouldn't fit. [SEP]
+the apple: 0.0432
+the melon: 0.00141
+
+
+------------------------------
+
+
+41 / 60: [CLS] Mary tried to pack the melon, along with the apple, into the jar, but [MASK] wouldn't fit. [SEP]
+the melon: 0.00151
+the apple: 0.032
+
+
+------------------------------
+
+
+42 / 60: [CLS] Sarah tried to climb up the wall, with one hand on the window ledge and the other on the drainpipe, but [MASK] gave way. [SEP]
+the drainpipe: 7.4e-06
+the window ledge: 0.0147
+
+
+------------------------------
+
+
+43 / 60: [CLS] Sarah tried to climb up the wall, with one hand on the drainpipe and the other on the window ledge, but [MASK] gave way. [SEP]
+the window ledge: 0.0279
+the drainpipe: 8.76e-06
+
+
+------------------------------
+
+
+44 / 60: [CLS] When the peach collided with the coconut, [MASK] was smashed to pieces. [SEP]
+the peach: 0.566
+the coconut: 0.455
+
+
+------------------------------
+
+
+45 / 60: [CLS] When the coconut collided with the peach, [MASK] was smashed to pieces. [SEP]
+the coconut: 0.37
+the peach: 0.555
+
+
+------------------------------
+
+
+46 / 60: [CLS] When the rock collided with the ornament, [MASK] shattered. [SEP]
+the rock: 0.000467
+the ornament: 1.47e-05
+
+
+------------------------------
+
+
+47 / 60: [CLS] When the ornament collided with the rock, [MASK] shattered. [SEP]
+the ornament: 1.38e-05
+the rock: 0.000701
+
+
+------------------------------
+
+
+48 / 60: [CLS] Ben packed his shirt in the same suitcase as his mug. When he took [MASK] out it was broken. [SEP]
+the shirt: 0.14
+the mug: 0.00369
+
+
+------------------------------
+
+
+49 / 60: [CLS] Ben packed his mug in the same suitcase as his shirt. When he took [MASK] out it was broken. [SEP]
+the mug: 0.0171
+the shirt: 0.0177
+
+
+------------------------------
+
+
+50 / 60: [CLS] Charlotte packed her shirt in the same suitcase as her book. When she took [MASK] out, it was creased. [SEP]
+the shirt: 0.00536
+the book: 0.0157
+
+
+------------------------------
+
+
+51 / 60: [CLS] Charlotte packed her book in the same suitcase as her shirt. When she took [MASK] out, it was creased. [SEP]
+the book: 0.0173
+the shirt: 0.00237
+
+
+------------------------------
+
+
+52 / 60: [CLS] Noah put his keys away in his pocket with his coins, but on his walk home [MASK] made a hole in the lining. [SEP]
+the keys: 0.000681
+the coins: 0.00126
+
+
+------------------------------
+
+
+53 / 60: [CLS] Noah put his coins away in his pocket with his keys, but on his walk home [MASK] made a hole in the lining. [SEP]
+the coins: 0.000901
+the keys: 0.000498
+
+
+------------------------------
+
+
+54 / 60: [CLS] When the raquet collided with the tennis ball, [MASK] bounced back and hit Josh in the face. [SEP]
+the raquet: 0.000205
+the tennis ball: 0.476
+
+
+------------------------------
+
+
+55 / 60: [CLS] When the tennis ball collided with the raquet, [MASK] bounced back and hit Josh in the face. [SEP]
+the tennis ball: 0.54
+the raquet: 0.000186
+
+
+------------------------------
+
+
+56 / 60: [CLS] Natalie regretted putting the chocolate bar in her pocket with her phone: when she took [MASK] out, it had melted. [SEP]
+the chocolate bar: 0.256
+the phone: 0.00182
+
+
+------------------------------
+
+
+57 / 60: [CLS] Natalie regretted putting her phone in her pocket with the chocolate bar: when she took [MASK] out, it had melted. [SEP]
+the phone: 0.0063
+the chocolate bar: 0.174
+
+
+------------------------------
+
+
+58 / 60: [CLS] Alice stuffed a banana in her pocket with her wallet. When she took [MASK] out, it was squashed. [SEP]
+the banana: 0.391
+the wallet: 0.0235
+
+
+------------------------------
+
+
+59 / 60: [CLS] Alice stuffed her wallet in her pocket with a banana. When she took [MASK] out, it was squashed. [SEP]
+the wallet: 0.0076
+the banana: 0.651
